@@ -55,3 +55,7 @@ h1{
     height: 290px; 
     padding: 100;
 }
+
+.divcentrar{
+    align-items: center;
+}
