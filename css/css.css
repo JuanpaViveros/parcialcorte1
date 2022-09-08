@@ -28,7 +28,7 @@ div{
 }
 .ptexo{
     text-align: center;
-    padding: 20px;
+    padding: 10px;
 }
 .imageno{
     padding-top: 10px; 
@@ -45,7 +45,8 @@ div{
 }
 h1{
     text-align: center;
-    padding: 10px;
+    padding: auto;
+    
 }
 .imagenn{
     text-align: center;
